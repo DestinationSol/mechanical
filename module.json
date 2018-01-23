@@ -2,5 +2,6 @@
     "id" : "mechanical",
     "version" : "0.0.1",
     "displayName" : "Mechanical Faction",
-    "description" : "Ships and other content to enable the mechanical faction in-game."
+    "description" : "Ships and other content to enable the mechanical faction in-game.",
+    "dependencies" : ["core", "deepspace", "tribe"]
 }
