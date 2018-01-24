@@ -3,5 +3,15 @@
     "version" : "0.0.1",
     "displayName" : "Mechanical Faction",
     "description" : "Ships and other content to enable the mechanical faction in-game.",
-    "dependencies" : ["core", "deepspace", "tribe"]
+    "dependencies" :  [
+        {
+            "id" : "core"
+        },
+        {
+            "id" : "deepspace"
+        },
+        {
+            "id" : "tribe"
+        }
+    ]
 }
